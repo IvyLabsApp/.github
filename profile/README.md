@@ -45,5 +45,5 @@ IvyLabs builds **BostonIvy**, a to-do and project manager that AI agents plan fo
 [wiki-link]: https://wiki.ivylabs.app
 [wiki-shield]: https://img.shields.io/badge/deploy-wiki.ivylabs.app-3a7d4f?labelColor=black&style=flat-square
 [license-link]: https://opensource.org/license/mit
-[license-shield]: https://img.shields.io/badge/license-MIT-white?labelColor=black&style=flat-square
+[license-shield]: https://img.shields.io/badge/license-MIT-3a7d4f?labelColor=black&style=flat-square
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
