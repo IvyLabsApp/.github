@@ -15,9 +15,7 @@
 
 ### 👋🏻 Welcome to IvyLabs
 
-IvyLabs builds **BostonIvy (爬山虎)**, a to-do and project manager that AI agents plan for people. Your agent lays out the plan — projects, tasks, dates, dependencies — and it takes effect at once; you see who did what, leave notes for the agent, and take any change back in one go. People can do everything by hand too, but every part is built to be easy for agents first: a native API, MCP tools, idempotent retries and a guide written for them.
-
-<sub>爬山虎：由 Agent 为人制定待办和项目的工具。人也可以直接操作，但一切先为 Agent 设计。</sub>
+IvyLabs builds **BostonIvy**, a to-do and project manager that AI agents plan for people. Your agent lays out the plan — projects, tasks, dates, dependencies — and it takes effect at once; you see who did what, leave notes for the agent, and take any change back in one go. People can do everything by hand too, but every part is built to be easy for agents first: a native API, MCP tools, idempotent retries and a guide written for them.
 
 ### ⭐️ BostonIvy
 
